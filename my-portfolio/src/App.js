@@ -1,6 +1,4 @@
-import logo from './logo.svg';
 import React, { useState } from "react";
-import './App.css';
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Navbar from "./components/Navbar";
